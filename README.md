@@ -7,6 +7,8 @@ where I'm fascinated by unraveling the complexities of digital crimes and invest
 
 😄 Pronouns: She/Her
 
+##### ⚡ Fun fact: I prefer to search for hours than ask for help, my two biggest dreams are to work with NASA to explore space and work as a Detective to solve crimes.
+
 ## 🌱 Passion for Learning
 
 I have a strong passion for continuous learning and am dedicated to self-improvement through self-learning. I love thinking outside the box 🎨, using critical thinking in every aspect of my life 🧠, and tackling complex problems and puzzles 🧩. My love for solving problems drives me to work on real-world projects that challenge my skills and help me grow professionally.
@@ -24,7 +26,6 @@ I have a diverse set of skills in programming and technology:
 - **Proficient:** C, Java, Python 🐍, English, Jupyter, SQL, EDA, Exploratory Data Analysis, Critical Thinking, Communication, Problem-Solving.
 - **Intermediate:** JavaScript, HTML, CSS 🌐, Power Bi, Statics.
 
-##### ⚡ Fun fact: I prefer to search for hours than ask for help, my two biggest dreams are to work with NASA to explore space and work as a Detective to solve crimes.
 
 ## 📁 Projects
 
