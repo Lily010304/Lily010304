@@ -16,7 +16,7 @@ I have a strong passion for continuous learning and am dedicated to self-improve
 I am currently expanding my knowledge and expertise in various fields:
 - 📊 **Data Analyst Track** on DataCamp
 - 🕵️‍♂️ **Digital Forensics Bootcamp**
-- 🖼️ **Computer Vision Bootcamp** with GSG
+- 🖼️ **Computer Vision Bootcamp** 
 
 ## 🛠️ Skills
 
@@ -24,7 +24,7 @@ I have a diverse set of skills in programming and technology:
 - **Proficient:** C, Java, Python 🐍, English, Jupyter, SQL, EDA, Exploratory Data Analysis, Critical Thinking, Communication, Problem-Solving.
 - **Intermediate:** JavaScript, HTML, CSS 🌐, Power Bi, Statics.
 
-### ⚡ Fun fact: I prefer to search for hours than ask for help, my two biggest dreams are to work with NASA to explore space and work as a Detective to solve crimes.
+##### ⚡ Fun fact: I prefer to search for hours than ask for help, my two biggest dreams are to work with NASA to explore space and work as a Detective to solve crimes.
 
 ## 📁 Projects
 
