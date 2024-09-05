@@ -29,7 +29,7 @@ I have a diverse set of skills in programming and technology:
 
 ## 📁 Projects
 
-You can check this repository for a collection of my projects. These projects reflect my journey in data analysis, computer vision, AI, cybersecurity, and more. I love working on real-world problem-solving projects to strengthen my skills and contribute meaningfully.
+You can check my repositories for a collection of my projects. These projects reflect my journey in data analysis.
 
 ## 🤝 Connect with Me
 
