@@ -26,11 +26,29 @@ I am currently expanding my knowledge and expertise in various fields:
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lily010304&show_icons=true&count_private=true)
 
-## 🛠 Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+## 🛠 Tools & Technologies🧑‍💻
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="50" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="50" />
+  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="Django" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="50" />
+  <img src="https://img.icons8.com/fluency/48/000000/autopsy.png" alt="Autopsy" height="50" />
+  <!-- Add more icons as needed -->
+</p>
+
+## 🌱 Technologies I've Been Exposed To 🌿
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="50" />
+  <!-- Add more icons as needed -->
+</p>
+
 
 ## 🌟 Interests
 - 🔭 Space & Quantum Physics  
