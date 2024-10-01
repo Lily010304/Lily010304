@@ -24,7 +24,7 @@ I am currently expanding my knowledge and expertise in various fields:
 - 🖼️ **Computer Vision Bootcamp**
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaylaAlsaabna&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lily010304&show_icons=true&count_private=true)
 
 ## 🛠 Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
