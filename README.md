@@ -7,6 +7,9 @@ where I'm fascinated by unraveling the complexities of digital crimes and invest
 
 😄 Pronouns: She/Her
 
+**Help Palestine**  
+[![Help Palestine](https://img.shields.io/badge/Support_FreePalestine-red?style=for-the-badge)](https://www.freedom-palestine.org)
+
 ##### ⚡ Fun fact: I prefer to search for hours than ask for help, my two biggest dreams are to work with NASA to explore space and work as a Detective to solve crimes.
 
 ## 🌱 Passion for Learning
@@ -18,7 +21,23 @@ I have a strong passion for continuous learning and am dedicated to self-improve
 I am currently expanding my knowledge and expertise in various fields:
 - 📊 **Data Analyst Track** on DataCamp
 - 🕵️‍♂️ **Digital Forensics Bootcamp**
-- 🖼️ **Computer Vision Bootcamp** 
+- 🖼️ **Computer Vision Bootcamp**
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaylaAlsaabna&show_icons=true&count_private=true)
+
+## 🛠 Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+## 🌟 Interests
+- 🔭 Space & Quantum Physics  
+- 🔒 Cybersecurity & Digital Forensics  
+- 🔎 AI and Computer Vision
+
+---
 
 ## 🛠️ Skills
 
