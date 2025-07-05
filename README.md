@@ -13,38 +13,23 @@ where I'm fascinated by unraveling the complexities of digital crimes and invest
 
 I have a strong passion for continuous learning and am dedicated to self-improvement through self-learning. I love thinking outside the box 🎨, using critical thinking in every aspect of my life 🧠, and tackling complex problems and puzzles 🧩. My love for solving problems drives me to work on real-world projects that challenge my skills and help me grow professionally.
 
-## 🚀 Current Learning Paths
 
-I am currently expanding my knowledge and expertise in various fields:
-- 📊 **Data Analyst Track** on DataCamp
-- 🕵️‍♂️ **Digital Forensics Bootcamp**
-- 🖼️ **Computer Vision Bootcamp**
+## 🌐 Socials:
+I'm always eager to connect with like-minded individuals who share a passion for learning, technology, and problem-solving. Let's collaborate and learn together!
+📫 How to reach me :  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/layla-alsaabna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laylaalsaabna@gmail.com) 
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lily010304&show_icons=true&count_private=true)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lily010304&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Lily010304&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lily010304&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠 Tools & Technologies🧑‍💻
+---
+[![](https://visitcount.itsvg.in/api?id=Lily010304&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="50" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="50" />
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="Django" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="50" />
-  <img src="![Untitled](https://github.com/user-attachments/assets/cd7eed82-4ad4-47bf-a7d0-27879c412b31)" alt="Autopsy" height="50" />
-  <!-- Add more icons as needed -->
-</p>
-
-## 🌱 Technologies I've Been Exposed To 🌿
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="50" />
-  <!-- Add more icons as needed -->
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 🌟 Interests
@@ -64,13 +49,6 @@ I have a diverse set of skills in programming and technology:
 ## 📁 Projects
 
 You can check my repositories for a collection of my projects. These projects reflect my journey in data analysis.
-
-## 🤝 Connect with Me
-
-I'm always eager to connect with like-minded individuals who share a passion for learning, technology, and problem-solving. Let's collaborate and learn together!
-📫 How to reach me :  
-1) via [LinkedIn](https://www.linkedin.com/in/layla-alsaabna)
-2) via Gmail laylaalsaabna@gmail.com
 
 ---
 
