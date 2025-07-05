@@ -7,7 +7,7 @@ where I'm fascinated by unraveling the complexities of digital crimes and invest
 
 😄 Pronouns: She/Her
 
-##### ⚡ Fun fact: I prefer to search for hours than ask for help, my two biggest dreams are to work with NASA to explore space and work as a Detective to solve crimes.
+##### ⚡ Fun fact: I prefer to search for hours than ask for help.
 
 ## 🌱 Passion for Learning
 
