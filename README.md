@@ -1,4 +1,3 @@
-=
 # About Me 🌌
 
 👋 Hello! I'm **Layla Alsaabna**, a passionate **Data Analyst** who loves everything about **space 🚀, quantum physics 🧬, crime 🕵️‍♀️, and investigations 🔍**. 
@@ -10,9 +9,9 @@ where I'm fascinated by unraveling the complexities of digital crimes and invest
 ##### ⚡ Fun fact: I prefer to search for hours than ask for help.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lily010304/github-breakout/output/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lily010304/github-breakout/output/light.svg">
-  <img src="https://raw.githubusercontent.com/Lily010304/github-breakout/output/](https://github.com/Lily010304/github-breakout/tree/main/output/light.svg" alt="GitHub Breakout Game">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lily010304/github-breakout/main/output/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lily010304/github-breakout/main/output/light.svg">
+  <img src="https://raw.githubusercontent.com/Lily010304/github-breakout/main/output/light.svg" alt="GitHub Breakout Game">
 </picture>
 
 ## 🌱 Passion for Learning
