@@ -13,6 +13,11 @@ where I'm fascinated by unraveling the complexities of digital crimes and invest
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lily010304/github-breakout/main/output/light.svg">
   <img src="https://raw.githubusercontent.com/Lily010304/github-breakout/main/output/light.svg" alt="GitHub Breakout Game">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lily010304/github-breakout/main/output/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lily010304/github-breakout/main/output/light.svg">
+  <img src="https://raw.githubusercontent.com/Lily010304/github-breakout/main/output/dark.svg" alt="GitHub Breakout Game">
+</picture>
 
 ## 🌱 Passion for Learning
 
