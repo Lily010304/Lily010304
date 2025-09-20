@@ -9,6 +9,12 @@ where I'm fascinated by unraveling the complexities of digital crimes and invest
 
 ##### ⚡ Fun fact: I prefer to search for hours than ask for help.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/light.svg">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/light.svg" alt="GitHub Breakout Game">
+</picture>
+
 ## 🌱 Passion for Learning
 
 I have a strong passion for continuous learning and am dedicated to self-improvement through self-learning. I love thinking outside the box 🎨, using critical thinking in every aspect of my life 🧠, and tackling complex problems and puzzles 🧩. My love for solving problems drives me to work on real-world projects that challenge my skills and help me grow professionally.
