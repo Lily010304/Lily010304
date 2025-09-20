@@ -10,7 +10,7 @@ where I'm fascinated by unraveling the complexities of digital crimes and invest
 ##### ⚡ Fun fact: I prefer to search for hours than ask for help.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lily010304/YOUR_REPO/output/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/light.svg">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/light.svg" alt="GitHub Breakout Game">
 </picture>
