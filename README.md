@@ -6,6 +6,8 @@ where I'm fascinated by unraveling the complexities of digital crimes and invest
 
 😄 Pronouns: She/Her
 
+[Portfolio](https://lily010304.github.io/portfolio/)
+
 ##### ⚡ Fun fact: I prefer to search for hours than ask for help.
 
 <picture>
