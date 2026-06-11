@@ -1,6 +1,6 @@
 # About Me 🌌
 
-👋 Hello! I'm **Layla Alsaabna**, a passionate **Data Analyst** who loves everything about **space 🚀, quantum physics 🧬, crime 🕵️‍♀️, and investigations 🔍**. 
+👋 Hello! I'm a passionate **Data Analyst** who loves everything about **space 🚀, quantum physics 🧬, crime 🕵️‍♀️, and investigations 🔍**. 
 I’m deeply enthusiastic about **Deep Learning, Artificial Intelligence (AI) 🤖, and Computer Vision** 📷. My curiosity also extends to **Cybersecurity 🛡️ and Digital Forensics**, 
 where I'm fascinated by unraveling the complexities of digital crimes and investigations.
 
